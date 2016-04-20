@@ -1,0 +1,28 @@
+name: nagolsawesomeness
+favicon: null
+layout_spectrum: 0.6708824629895389
+typography_spectrum: 0.8966864773537964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.37434689374640584
+  lightness: 0.6667031280230731
+  saturation: 0.7449295045807958
+  rhythmicContrast: 0.06980564841069281
+purpose: []
