@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-04-20T21:18:27.692Z'
+dateModified: '2016-04-21T01:23:49.763Z'
+datePublished: '2016-04-21T01:51:48.062Z'
 title: Down the road
 hasPage: false
 inFeed: true
@@ -7,7 +8,6 @@ inNav: false
 starred: false
 description: ''
 author: []
-datePublished: '2016-04-20T21:19:34.812Z'
 sourcePath: _posts/2016-04-20-down-the-road.md
 published: true
 _context: 'http://schema.org'
