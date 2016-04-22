@@ -1,7 +1,7 @@
 name: nagolsawesomeness
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8966864773537964
+layout_spectrum: 0.98073
+typography_spectrum: 0
 title: Awesomeness as seen by Nagol
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.37434689374640584
   lightness: 0.6667031280230731
   saturation: 0.7449295045807958
-  rhythmicContrast: 0.06980564841069281
+  rhythmicContrast: 0.5
 purpose: []
